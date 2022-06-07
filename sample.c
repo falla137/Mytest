@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("New change in the repository");
 return 0;
 }
 
